@@ -14,9 +14,7 @@ galaxy_info:
   # - GPLv3
   # - Apache
   # - CC-BY
-  license: 
-    - Apache
-    - GPLv2
+  license: "license (GPLv2, Apache)"
 
   min_ansible_version: 2.4
 
@@ -48,7 +46,6 @@ galaxy_info:
   #   - 1.0
   #   - 7
   #   - 99.99
-
   galaxy_tags: 
     - ubuntu
     - tomcat
