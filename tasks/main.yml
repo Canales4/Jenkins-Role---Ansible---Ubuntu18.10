@@ -1,4 +1,3 @@
 ---
-# tasks file for /etc/ansible/roles/tomcat
- - import_tasks: installtomcat.yml
- - import_tasks: startuptomcat.yml
+- import_tasks: installtomcat.yml
+- import_tasks: startuptomcat.yml
