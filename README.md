@@ -15,7 +15,7 @@ A description of the settable variables for this role should go here, including 
 
 Dependencies
 ------------
-- canales4.role_java
+- none
 
 Example Playbook
 ----------------
